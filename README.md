@@ -1,2 +1,3 @@
 # k8s-prac
-This repository is k8s repo for practice
+
+local에 실제로 세팅하면서 알아본다
